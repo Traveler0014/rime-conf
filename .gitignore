@@ -1,3 +1,7 @@
 /sync
 /build
 /*.userdb
+default.custom.yaml
+weasel.custom.yaml
+installation.yaml
+user.yaml
