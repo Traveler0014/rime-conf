@@ -1,0 +1,7 @@
+# Rime schema customize
+
+patch:
+  switches/@2/+:
+    reset: 1
+  switches/@3/+:
+    reset: 1

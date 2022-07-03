@@ -1,0 +1,10 @@
+var:
+  last_build_time: 1656818888
+  option:
+    ascii_punct: true
+    simplification: true
+  previously_selected_schema: japanese
+  schema_access_time:
+    double_pinyin_flypy: 1656818394
+    japanese: 1656818896
+    luna_pinyin_fluency: 1656814536
