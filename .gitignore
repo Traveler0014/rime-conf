@@ -6,8 +6,4 @@ user.yaml
 installation.yaml
 *.dict.yaml
 *.schema.yaml
-LOCK
-LOG
-MANIFEST*
-*.log
-*.old
+*.userdb/
