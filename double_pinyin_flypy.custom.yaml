@@ -1,9 +1,0 @@
-# Rime schema customize
-
-patch:
-  switches/@2/+: # 默认简体
-    reset: 1
-  switches/@3/+: # 默认半角符号
-    reset: 1
-  key_binder/bindings/+: # Ctrl+.切换中英符号
-    - {accept: "Control+period", toggle: ascii_punct, when: always}

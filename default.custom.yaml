@@ -1,0 +1,9 @@
+patch:
+  menu:
+    alternative_select_labels: ["☰", "☱", "☲", "☳", "☴", "☵", "☶", "☷"]
+    page_size: 8
+  schema_list:
+    - {schema: double_pinyin_flypy}
+    - {schema: japanese}
+  key_binder/bindings/+:
+   - {accept: "Control+Shift+space", select: .next, when: always}
