@@ -1,4 +1,4 @@
 patch:
-  style:
+  style/+:
     color_scheme: ink
     font_face: 思源宋体

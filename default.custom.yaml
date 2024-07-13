@@ -1,5 +1,5 @@
 patch:
-  menu:
+  menu/+:
     alternative_select_labels: ["☰", "☱", "☲", "☳", "☴", "☵", "☶", "☷"]
     page_size: 8
   schema_list:
